@@ -103,14 +103,5 @@ Experiment with other models (Ridge, Lasso)
 Web app using Streamlit or Flask
 
 
-
 ---
 
-👨‍💻 Author
-
-Ujjwal Mishra
-AI & ML Intern — Elevate Labs
-GitHub Profile - https://github.com/Ujjwal-Asta
-
-
----
